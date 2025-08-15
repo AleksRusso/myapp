@@ -10,7 +10,9 @@ export default function Header() {
         <h1>My first app </h1>
         <span>Today now is {now.toLocaleDateString()}</span>
       </div>
+     
       {/*<h5>gggggg</h5>*/}
     </header>
   );
 }
+
